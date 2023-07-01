@@ -1,0 +1,20 @@
+:root {
+  
+}
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+}
